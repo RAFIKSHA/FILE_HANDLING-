@@ -134,4 +134,3 @@ with open("demo.txt", "r") as file:
 
 ---
 
-Would you like practice exercises or a mini project involving file handling (e.g., text editor, log file reader)?
